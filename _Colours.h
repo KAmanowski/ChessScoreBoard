@@ -5,3 +5,5 @@
 #define MAGENTA 0xF81F
 #define YELLOW 0xFFE0
 #define BLUE 0x001F
+#define ORANGE 0xFBC0
+#define DARK_GREEN 0x0404
